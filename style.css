@@ -172,8 +172,7 @@
 
         /* ===== HERO SECTION ===== */
         .hero {
-            background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
-            color: var(--white);
+            color: var(--black);
             padding: 3rem 2rem;
         }
 
